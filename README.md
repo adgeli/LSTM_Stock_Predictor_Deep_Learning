@@ -31,3 +31,16 @@ The second part of this assignment uses the historical closing prices in an atte
 ![closing](Images/closing_prices.png)
 
 ---
+
+## Installation Requirements
+
+To successfully view parts 1 and 2 of the assignment deliverables; [FNG LSTM Stock Predictor Notebook](FNG_LSTM_Stock_Predictor.ipynb) and [Closing Prices LSTM Stock Predictor Notebook](Closing_LSTM_Stock_Predictor.ipynb), the following installations are required: 
+
+```
+pip install pandas
+pip instal numpy
+pip install matplotlib
+pip install hvplot
+```
+
+---
