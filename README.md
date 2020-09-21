@@ -44,3 +44,12 @@ pip install hvplot
 ```
 
 ---
+
+## File Contents
+
+- [FNG LSTM Stock Predictor Notebook](FNG_LSTM_Stock_Predictor.ipynb)
+- [Closing Prices LSTM Stock Predictor Notebook](Closing_LSTM_Stock_Predictor.ipynb)
+- [Summary of Findings](summary_of_findings.md)
+- [Unit 14 Instructions](unit_14_instructions.md)
+
+---
